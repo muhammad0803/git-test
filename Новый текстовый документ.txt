@@ -1,1 +1,8 @@
-sadhsads
+git init
+git add .
+git commit -m 'kommit'
+git push
+
+git clone link
+
+git pull
